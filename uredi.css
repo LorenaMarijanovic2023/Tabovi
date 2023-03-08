@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 1em;
+  padding: 3em;
+}
+
+li {
+  display: block;
+  padding: .4em;
+  
+}
+button {
+  background-color: aqua;
+  padding: 1em;
+  border: .2em solid red;
+  font-size: 2em;
+}
+
+p {
+  display: none;
+  border: .2em solid red;
+  padding: 1em;
+}
+p:hover {
+  background-color: yellow;
+  color: red;
+  font-size: 1em;
+}
